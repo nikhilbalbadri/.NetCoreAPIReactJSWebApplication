@@ -1,0 +1,26 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.title{
+    text-align:center;
+    margin-top:175px;
+}
+
+.home-button {
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    padding-top:30px;
+}
